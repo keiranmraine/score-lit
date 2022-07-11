@@ -13,7 +13,7 @@ $ python -m venv .venv
 $ . .venv/Scripts/activate
 # linux/mac
 $ source .venv/bin/activate
-$ pip install streamlit
+$ pip install streamlit plotly-express
 $ streamlit run score.py
 ```
 
