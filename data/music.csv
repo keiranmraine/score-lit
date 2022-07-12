@@ -1,10 +1,116 @@
-﻿Composer,Artist,Arranger,Title,Level,Type,Volume,Page
-John Williams,John Williams,Dan Coates,Across The Stars,Easy,Book,Movie Sheet Music Hits,2
-John Kander,Fred Ebb,Dan Coates,And All That Jazz,Easy,Book,Movie Sheet Music Hits,6
-Peter Allen,Burt Bacharach,Dan Coates,Arthur's Theme (Best That You Can Do),Easy,Book,Movie Sheet Music Hits,16
-Neil Hefti,Neil Hefti,Dan Coates,Batman Theme,Easy,Book,Movie Sheet Music Hits,11
-Willian Orbit,Madonna Ciccone,Dan Coates,Beautiful Stranger,Easy,Book,Movie Sheet Music Hits,20
-Diane Warren,Diane Warren,Dan Coates,Because You Loved Me,Easy,Book,Movie Sheet Music Hits,25
-David Baerwald,Kevin Gilbert,Dan Coates,Come What May,Easy,Book,Movie Sheet Music Hits,30
-John Williams,John Williams,Dan Coates,Hedwig's Theme,Easy,Book,Movie Sheet Music Hits,52
-John Williams,John Williams,Dan Coates,Star Wars (Main Theme),Easy,Book,Movie Sheet Music Hits,64
+﻿Composer,Title,Page,Type,Volume,Lyrics,Arranger,Problematic
+John Williams,Across The Stars,2,Book,Movie Sheet Music Hits,,Dan Coates,0
+John Kander,And All That Jazz,6,Book,Movie Sheet Music Hits,Fred Ebb,Dan Coates,0
+Neil Hefti,Batman Theme,11,Book,Movie Sheet Music Hits,,Dan Coates,0
+Peter Allen,Arthur's Theme (Best That You Can Do),16,Book,Movie Sheet Music Hits,Burt Bacharach,Dan Coates,0
+Willian Orbit,Beautiful Stranger,20,Book,Movie Sheet Music Hits,Madonna Ciccone,Dan Coates,0
+Diane Warren,Because You Loved Me,25,Book,Movie Sheet Music Hits,Diane Warren,Dan Coates,0
+David Baerwald,Come What May,30,Book,Movie Sheet Music Hits,Kevin Gilbert,Dan Coates,0
+Scott Joplin,The Entertainer,35,Book,Movie Sheet Music Hits,,Dan Coates,0
+James Peterik,Eye Of The Tiger,38,Book,Movie Sheet Music Hits,Frank Sullivan,Dan Coates,0
+John Williams,Fawkes The Phoenix,42,Book,Movie Sheet Music Hits,,Dan Coates,0
+Howard Shore,In Dreams,45,Book,Movie Sheet Music Hits,Fran Walsh,Dan Coates,0
+Howard Shore,Gollum's Song,48,Book,Movie Sheet Music Hits,Fran Walsh,Dan Coates,0
+John Williams,Hedwig's Theme,52,Book,Movie Sheet Music Hits,,Dan Coates,0
+Diane Warren,How Do I Live,56,Book,Movie Sheet Music Hits,Diane Warren,Dan Coates,0
+Diane Warren,I Don't Want To Miss A Thing,60,Book,Movie Sheet Music Hits,Diane Warren,Dan Coates,0
+Monty Norman,James Bond Theme,64,Book,Movie Sheet Music Hits,,Dan Coates,0
+Harold Arlen,Over The Rainbow,68,Book,Movie Sheet Music Hits,E Y Harburg,Dan Coates,0
+Maurice Jarre,Somewhere My Love (Lara's Theme),71,Book,Movie Sheet Music Hits,Paul Francis Webster,Dan Coates,0
+John Williams,Star Wars (Main Theme),74,Book,Movie Sheet Music Hits,,Dan Coates,0
+Bee Gees,Stayin' Alive,76,Book,Movie Sheet Music Hits,Bee Gees,Dan Coates,0
+John Williams,Superman Theme,80,Book,Movie Sheet Music Hits,,Dan Coates,0
+Burt Bacharach,That's What Friends Are For,83,Book,Movie Sheet Music Hits,Carole Bayer-Sager,Dan Coates,0
+Marvin Hamlisch,Theme from Ice Castles,88,Book,Movie Sheet Music Hits,Carole Bayer-Sager,Dan Coates,0
+Diane Warren,There You'll Be,91,Book,Movie Sheet Music Hits,Diane Warren,Dan Coates,0
+Jeff Silbar,The Wind Beneath My Wings,96,Book,Movie Sheet Music Hits,Larry Henley,Dan Coates,0
+Isaac Albeniz,Tango,4,Book,The Library Of Piano Classics,,,0
+Isaac Albeniz,Malaguena,6,Book,The Library Of Piano Classics,,,0
+Johann Sebastian Bach,Four Pieces From The Little Notebook,10,Book,The Library Of Piano Classics,,,0
+Johann Sebastian Bach,Prelude No. 1,14,Book,The Library Of Piano Classics,,,0
+Johann Sebastian Bach,"Prelude and Fugue Book 2, No. 12",16,Book,The Library Of Piano Classics,,,0
+Johann Sebastian Bach,"Prelude and Fugue Book 1, No. 2",21,Book,The Library Of Piano Classics,,,0
+Johann Sebastian Bach,Air,26,Book,The Library Of Piano Classics,,,0
+Ludwig van Beethoven,Bagatelle,28,Book,The Library Of Piano Classics,,,0
+Ludwig van Beethoven,Ecossaise,30,Book,The Library Of Piano Classics,,,0
+Ludwig van Beethoven,Fur Elise,36,Book,The Library Of Piano Classics,,,0
+Ludwig van Beethoven,Minuet in G,40,Book,The Library Of Piano Classics,,,0
+Ludwig van Beethoven,Moonlight Sonata,42,Book,The Library Of Piano Classics,,,0
+Ludwig van Beethoven,Rondo a Cappriccio,46,Book,The Library Of Piano Classics,,,0
+Ludwig van Beethoven,Six Variations,58,Book,The Library Of Piano Classics,,,0
+Luigi Boccherini,Minuet,66,Book,The Library Of Piano Classics,,,0
+Johannes Brahms,Waltz in A Flat,68,Book,The Library Of Piano Classics,,,0
+Johannes Brahms,Hungarian Dance,70,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,Fantasie-Impromptu,72,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,"Valse Op. 64, No. 2",79,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,"Nocturne Op. 72, No. 1",84,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,"Nocturne Op. 55, No 1",88,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,Nocturne in E Flat,93,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,"Prelude Op. 28, No. 6",96,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,"Prelude Op. 28, No. 7",97,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,Mazurka in A minor,98,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,"Valse Op. 69, No. 2",100,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,Mazurka in B Flat,104,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,Nocturne (Posthumous),106,Book,The Library Of Piano Classics,,,0
+Frederic Chopin,"Valse Op. 64, No. 1",109,Book,The Library Of Piano Classics,,,0
+Louis-Claude Daquin,Le Coucou,112,Book,The Library Of Piano Classics,,,0
+Claude Debussy,The Little Negro,116,Book,The Library Of Piano Classics,,,1
+Claude Debussy,Clair de Lune,118,Book,The Library Of Piano Classics,,,0
+Claude Debussy,Minstrels,124,Book,The Library Of Piano Classics,,,0
+Claude Debussy,La Fille aux Cheveux de Lin,128,Book,The Library Of Piano Classics,,,0
+Claude Debussy,Golliwog's Cake-walk,130,Book,The Library Of Piano Classics,,,1
+Claude Debussy,Deux Arabesques,135,Book,The Library Of Piano Classics,,,0
+Anton Dvorak,Humoresques,146,Book,The Library Of Piano Classics,,,0
+Anton Dvorak,Humoresque (Four-Hands),150,Book,The Library Of Piano Classics,,,0
+Gabriel Faure,Romance sans Paroles,154,Book,The Library Of Piano Classics,,,0
+John Field,Nocturne,160,Book,The Library Of Piano Classics,,,0
+Antoni Diabelli,Rondino,164,Book,The Library Of Piano Classics,,,0
+Zdenko Fibich,Poem,166,Book,The Library Of Piano Classics,,,0
+Edvard Grieg,Anitra's Dance,167,Book,The Library Of Piano Classics,,,0
+Edvard Grieg,Anitra's Dance (Four-Hands),170,Book,The Library Of Piano Classics,,,0
+Edvard Grieg,Papillon,176,Book,The Library Of Piano Classics,,,0
+Cesar Franck,The Doll's Complaint,180,Book,The Library Of Piano Classics,,,0
+Edvard Grieg,Humoresque,183,Book,The Library Of Piano Classics,,,0
+Francois Joseph Gossec,Gavotte in D,184,Book,The Library Of Piano Classics,,,0
+Enrique Granados,a Alfredo G. Faira Playera,186,Book,The Library Of Piano Classics,,,0
+George Frideric Handel,Air and Variations,190,Book,The Library Of Piano Classics,,,0
+George Frideric Handel,Largo,194,Book,The Library Of Piano Classics,,,0
+Joseph Haydn,Gypsy Rondo,196,Book,The Library Of Piano Classics,,,1
+Johann Nepomuk Hummel,Rondo,201,Book,The Library Of Piano Classics,,,0
+Joseph Haydn,Sonata in D Major,208,Book,The Library Of Piano Classics,,,0
+Scott Joplin,The Cascades,218,Book,The Library Of Piano Classics,,,0
+Dimitri Kabalevsky,Having Fun,222,Book,The Library Of Piano Classics,,,0
+Aram Khachaturian,Saber Dance,224,Book,The Library Of Piano Classics,,,0
+Anatol Liadov,The Music Box,226,Book,The Library Of Piano Classics,,,0
+Franz Liszt,Hungarian Rhapsody,230,Book,The Library Of Piano Classics,,,0
+Franz Liszt,Liebestraum,246,Book,The Library Of Piano Classics,,,0
+Edward MacDowell,To A Wild Rose,252,Book,The Library Of Piano Classics,,,0
+Jules Massenet,Elegie,254,Book,The Library Of Piano Classics,,,0
+Felix Mendelssohn,Venetian Boat Song,256,Book,The Library Of Piano Classics,,,0
+Wolfgang Amadeus Mozart,Alla Turca,258,Book,The Library Of Piano Classics,,,0
+Wolfgang Amadeus Mozart,Sonata K 545,262,Book,The Library Of Piano Classics,,,0
+Wolfgang Amadeus Mozart,Fantasy in D Minor,273,Book,The Library Of Piano Classics,,,0
+Wolfgang Amadeus Mozart,Rondo in D,278,Book,The Library Of Piano Classics,,,0
+Jacques Offenbach,Barcarolle,284,Book,The Library Of Piano Classics,,,0
+Jacques Offenbach,Barcarolle (Four-Hands),286,Book,The Library Of Piano Classics,,,0
+Sergei Prokofieff,Peter and the Wolf,290,Book,The Library Of Piano Classics,,,0
+Serge Rachmaninoff,Prelude,291,Book,The Library Of Piano Classics,,,0
+Jean-Philippe Rameau,La Tambourin,296,Book,The Library Of Piano Classics,,,0
+Nikolay Rimsky-Korsakov,Song of India,298,Book,The Library Of Piano Classics,,,0
+Nikolay Rimsky-Korsakov,Song of India (Four-Hands),302,Book,The Library Of Piano Classics,,,0
+Erik Satie,Trois Gnossiennes,306,Book,The Library Of Piano Classics,,,0
+Domenico Scarlatti,Sonata L 374,312,Book,The Library Of Piano Classics,,,0
+Peter I. Tchaikovsky,Italian Song,315,Book,The Library Of Piano Classics,,,0
+Alexander Scriabin,Akbum Leaf,316,Book,The Library Of Piano Classics,,,0
+Dmitri Shostakovitch,Polka,318,Book,The Library Of Piano Classics,,,0
+Franz Schubert,Serenade,322,Book,The Library Of Piano Classics,,,0
+Franz Schubert,Serenade (Four-Hands),324,Book,The Library Of Piano Classics,,,0
+Franz Schubert,Moment Musical,328,Book,The Library Of Piano Classics,,,0
+Robert Schumann,Soldiers' March,330,Book,The Library Of Piano Classics,,,0
+Franz Schubert,Marche Militaire,331,Book,The Library Of Piano Classics,,,0
+Franz Schubert,Marche Militaire (Four-Hands),334,Book,The Library Of Piano Classics,,,0
+Robert Schumann,The Happy Farmer,340,Book,The Library Of Piano Classics,,,0
+Robert Schumann,Traumerei,341,Book,The Library Of Piano Classics,,,0
+Robert Schumann,Traumerei (Four-Hands),342,Book,The Library Of Piano Classics,,,0
+Johann Strauss,The Beautiful Blue Danube,344,Book,The Library Of Piano Classics,,,0
+Carl Maria von Weber,Waltz,350,Book,The Library Of Piano Classics,,,0
